@@ -24,9 +24,13 @@ experience.
 Technology - Usage 
 
 HTML5 - Semantic page structure and content 
+
 CSS3 - Styling, layout, responsive design and visual effects 
+
 Bootstrap - Responsive grid, navigation, cards, buttons and form components 
+
 JavaScript - Interactivity, DOM manipulation, filtering and validation 
+
 Git & GitHub - Version control and source-code hosting 
 
 
